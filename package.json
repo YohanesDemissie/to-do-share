@@ -1,0 +1,27 @@
+{
+  "name": "to-do-share",
+  "version": "1.0.0",
+  "description": "shared to-do list for partner and i",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YohanesDemissie/to-do-share.git"
+  },
+  "keywords": [
+    "to-do-list",
+    "couples"
+  ],
+  "author": "Yohan the DevDon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YohanesDemissie/to-do-share/issues"
+  },
+  "homepage": "https://github.com/YohanesDemissie/to-do-share#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
